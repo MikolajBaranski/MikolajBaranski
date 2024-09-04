@@ -1,3 +1,6 @@
+## Hi there 👋
+
+Below are my academic and private AI-related projects. Feel free to browse if you are interested in practical applications of computer vision models and large language models.
 <!--
 **MikolajBaranski/MikolajBaranski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
